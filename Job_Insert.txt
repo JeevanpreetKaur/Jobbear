@@ -1,0 +1,23 @@
+CREATE TABLE Job(
+	JobID INT PRIMARY KEY UNIQUE NOT NULL,
+	EmpID INT REFERENCES employer(EmpID),
+	title varchar(255) NOT NULL,
+	company_name varchar(255) NOT NULL,
+	location varchar(255) NOT NULL,
+	via varchar(255) NOT NULL,
+	description varchar(16384) NOT NULL,
+	extensions varchar(255) NOT NULL,
+	job_code varchar(4096) NOT NULL,
+	thumbnail varchar(4096),
+	posted_at varchar(50) NOT NULL,
+	schedule varchar(50),
+	work_from_home varchar(50),
+	salary_pay varchar(255),
+	salary_rate varchar(255),
+	salary_avg varchar(255),
+	salary_min varchar(255),
+	salary_max varchar(255),
+	salary_hourly varchar(255),
+	salary_yearly varchar(255),
+	salary_standardized varchar(255)
+);

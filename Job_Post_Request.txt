@@ -1,0 +1,9 @@
+CREATE TABLE job_post_requests(
+	reqid SERIAL PRIMARY KEY,
+	reqtitle TEXT,
+	jobrequirements TEXT,
+	salary INT,
+	skillsreq TEXT,
+	compadd TEXT,
+	jobrolesrespons TEXT
+);

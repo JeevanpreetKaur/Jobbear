@@ -1,0 +1,10 @@
+CREATE TABLE personal_information (
+    id SERIAL PRIMARY KEY, 
+    first_name VARCHAR(100) NOT NULL,
+    last_name VARCHAR(100) NOT NULL,
+    experience VARCHAR(100) NOT NULL,
+    education TEXT,
+    skills VARCHAR(100),
+    new_skills VARCHAR(100),
+    certifications TEXT
+);

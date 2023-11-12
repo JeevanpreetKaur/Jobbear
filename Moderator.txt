@@ -1,0 +1,17 @@
+CREATE TABLE Moderator(
+	ModID INT PRIMARY KEY UNIQUE NOT NULL,
+	ModName varchar(50) UNIQUE NOT NULL,
+	Memail varchar(50) UNIQUE NOT NULL,
+	Password varchar(50) UNIQUE NOT NULL,
+	ModeratorLevel varchar(50) UNIQUE NOT NULL,
+	Status varchar(50) UNIQUE NOT NULL,
+	Mdesc varchar(4096) UNIQUE NOT NULL,
+	ProfilePic varchar(50) UNIQUE NOT NULL
+);
+
+Create TABLE Moderator_JobStats(
+	ModID INT REFERENCES Moderator(ModID),
+	NumReports INT,
+	NumJobPost INT,
+	NumJobListingReview INT
+);

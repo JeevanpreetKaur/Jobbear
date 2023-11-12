@@ -1,0 +1,101 @@
+JobFilters,Salary,Location,Jobtype,Availability
+1,17694,Söderhamn,Engineer III,Europe/Stockholm
+2,21545,Zalţan,Design Engineer,Africa/Tripoli
+3,9849,Concord,Product Engineer,America/Toronto
+4,23233,Bořitov,Media Manager I,Europe/Prague
+5,10694,Kosakowo,Payment Adjustment Coordinator,Europe/Warsaw
+6,22483,Borowno,Senior Quality Engineer,Europe/Warsaw
+7,13114,Gaoua,Environmental Specialist,Africa/Ouagadougou
+8,17228,Várzea Paulista,Marketing Assistant,America/Sao_Paulo
+9,5335,Porosozero,Geologist II,Europe/Moscow
+10,7107,Náchod,Structural Analysis Engineer,Europe/Prague
+11,11209,Xinglong,Assistant Manager,Asia/Chongqing
+12,14688,Kirovgrad,Statistician III,Asia/Yekaterinburg
+13,4094,Kamaishi,Assistant Professor,Asia/Tokyo
+14,19775,Jindu,Geologist IV,Asia/Chongqing
+15,1740,Dasongshu,Nuclear Power Engineer,Asia/Chongqing
+16,29101,Huliao,Tax Accountant,Asia/Shanghai
+17,19503,Ryazan’,Librarian,Europe/Moscow
+18,6854,Bronx,Design Engineer,America/New_York
+19,29677,Veyno,Programmer Analyst II,Europe/Minsk
+20,6431,Gracias,Staff Scientist,America/Tegucigalpa
+21,19127,Anuradhapura,Project Manager,Asia/Colombo
+22,5771,Claver,Safety Technician III,Asia/Manila
+23,28319,Dalongzhan,Sales Representative,Asia/Shanghai
+24,16464,Wapno,Junior Executive,Europe/Warsaw
+25,18199,Al Quşayr,Safety Technician II,Africa/Cairo
+26,2172,Gazanjyk,Account Representative IV,Asia/Ashgabat
+27,28272,Sendang,Business Systems Development Analyst,Asia/Jakarta
+28,24709,Urug,Nurse Practicioner,Asia/Jakarta
+29,11823,Mrkonjić Grad,Data Coordinator,Europe/Sarajevo
+30,28520,Uto,Administrative Officer,Asia/Tokyo
+31,28542,Calangain,Developer I,Asia/Manila
+32,12063,Molchanovo,Statistician IV,Asia/Krasnoyarsk
+33,6536,Kaingiwa,Speech Pathologist,Africa/Lagos
+34,12399,Mianay,Nurse Practicioner,Asia/Manila
+35,17505,Mashizhai,Programmer II,Asia/Harbin
+36,11321,Aborlan,Chemical Engineer,Asia/Manila
+37,8290,Andrijaševci,Programmer I,Europe/Zagreb
+38,24850,Huata,Engineer I,America/Lima
+39,1163,Kalbugan,Speech Pathologist,Asia/Manila
+40,7133,Citampian,Desktop Support Technician,Asia/Jakarta
+41,15832,Donnacona,Administrative Officer,America/Montreal
+42,13429,Saint-Lambert-de-Lauzon,Cost Accountant,America/Montreal
+43,24490,Oula Xiuma,Programmer Analyst IV,Asia/Chongqing
+44,26651,Singkup,Senior Editor,Asia/Jakarta
+45,22600,Muonio,Budget/Accounting Analyst I,Europe/Helsinki
+46,28084,Funza,Design Engineer,America/Bogota
+47,9411,A dos Cunhados,Paralegal,Europe/Lisbon
+48,7871,Kakegawa,Assistant Media Planner,Asia/Tokyo
+49,3416,Antonina,Structural Analysis Engineer,America/Sao_Paulo
+50,21202,Dashiqiao,Safety Technician IV,Asia/Harbin
+51,27849,Disina,VP Sales,Africa/Lagos
+52,17613,Sarykemer,VP Accounting,Asia/Almaty
+53,22927,Sabbah,Quality Engineer,Asia/Damascus
+54,27953,Bielawa,Environmental Tech,Europe/Warsaw
+55,19126,Val-d'Or,Data Coordinator,America/Montreal
+56,28790,Bryan,Analog Circuit Design manager,America/Chicago
+57,13131,Ancahuasi,Actuary,America/Lima
+58,7868,Kebon,Account Coordinator,Asia/Jakarta
+59,23854,Manta,Statistician II,America/Guayaquil
+60,10925,Gislaved,VP Accounting,Europe/Stockholm
+61,19798,Kōnosu,Junior Executive,Asia/Tokyo
+62,12470,Nsok,Human Resources Assistant II,Africa/Libreville
+63,7179,Chuhuyiv,Web Developer II,Europe/Zaporozhye
+64,24203,Santa Venera,VP Quality Control,Europe/Malta
+65,8966,Artémida,Compensation Analyst,Europe/Athens
+66,16714,Ārt Khwājah,Senior Sales Associate,Asia/Kabul
+67,21856,Hamburg,Programmer Analyst II,Europe/Berlin
+68,25966,La Paz,Marketing Assistant,America/Mexico_City
+69,16692,Bato,Safety Technician IV,Asia/Manila
+70,11907,Pulau Pinang,Research Nurse,Asia/Kuala_Lumpur
+71,18133,Ibung,Senior Editor,Asia/Manila
+72,24504,Ea Drăng,Food Chemist,Asia/Ho_Chi_Minh
+73,16366,Gložan,Research Nurse,Europe/Belgrade
+74,22892,Los Rastrojos,Accountant II,America/Caracas
+75,28321,Amaigbo,GIS Technical Architect,Africa/Lagos
+76,24871,Dian-ay,Electrical Engineer,Asia/Manila
+77,11753,Nicolet,Help Desk Operator,America/Montreal
+78,10913,Kamenka,Clinical Specialist,Europe/Moscow
+79,26488,Jin’an,Environmental Specialist,Asia/Chongqing
+80,3746,Hamburg,Compensation Analyst,Europe/Berlin
+81,14476,Chengbei,Structural Engineer,Asia/Chongqing
+82,24677,Janiuay,Recruiting Manager,Asia/Manila
+83,4767,Lagnieu,Product Engineer,Europe/Paris
+84,18068,Trashigang,Cost Accountant,Asia/Kolkata
+85,18620,Kendaruan,Web Developer I,Asia/Jakarta
+86,28138,Druzhny,Technical Writer,Europe/Minsk
+87,26748,Kototujuh,Statistician IV,Asia/Jakarta
+88,21905,Yedun,Marketing Manager,Asia/Shanghai
+89,26466,Renhe,Senior Editor,Asia/Chongqing
+90,3750,Annan,Senior Editor,Asia/Shanghai
+91,9605,Sulahan,Programmer Analyst II,Asia/Makassar
+92,16883,Velille,Research Assistant II,America/Lima
+93,23823,Sizao,Financial Analyst,Asia/Shanghai
+94,9384,Kāleke Mandi,Clinical Specialist,Asia/Karachi
+95,24633,Örnsköldsvik,Legal Assistant,Europe/Stockholm
+96,2016,Kumba,VP Marketing,Africa/Douala
+97,14697,Leiling,Mechanical Systems Engineer,Asia/Shanghai
+98,25884,Banjar Taro Kelod,Human Resources Assistant II,Asia/Makassar
+99,20687,Cincinnati,Social Worker,America/New_York
+100,10316,Jiudian,Accountant IV,Asia/Chongqing

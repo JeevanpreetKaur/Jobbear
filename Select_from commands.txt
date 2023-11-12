@@ -1,0 +1,11 @@
+SELECT * FROM job_seeker;
+
+SELECT * FROM jobfilters;
+
+SELECT * FROM employer;
+
+SELECT * FROM Job;
+
+SELECT * FROM moderator;
+
+SELECT * FROM moderator_jobstats;

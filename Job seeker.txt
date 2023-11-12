@@ -1,0 +1,28 @@
+CREATE TABLE Job_Seeker(
+	JobSID INT UNIQUE PRIMARY KEY,
+	Jlast_name varchar(255) UNIQUE NOT NULL,
+	Jfirst_name varchar(255) NOT NULL,
+	Jpassword varchar(50) NOT NULL,
+	Jgender varchar(255),
+	JPhone varchar(50) UNIQUE NOT NULL,
+	Jemail varchar(255) UNIQUE NOT NULL,
+	JsuiteNo INT NOT NULL,
+	Jstreet varchar(50) NOT NULL,
+	Jcity varchar(50) NOT NULL,
+	Jprovince varchar(50) NOT NULL,
+	Jcountry varchar(50) NOT NULL,
+	Jpostalcode varchar(25) NOT NULL
+);
+
+Create TABLE JobFilters(
+	JobFilters INT PRIMARY KEY UNIQUE NOT NULL,
+	Salary INT UNIQUE NOT NULL,
+	Location varchar(255) NOT NULL,
+	Jobtype varchar(50) NOT NULL,
+	Availability varchar(50) NOT NULL
+);
+
+CREATE TABLE Edu_Certification(
+	JobSID INT REFERENCES Job_Seeker(JobSID),
+	Edu_Certification varchar(255) UNIQUE NOT NULL
+);

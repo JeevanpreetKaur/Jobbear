@@ -1,0 +1,12 @@
+CREATE TABLE Employer(
+	EmpID INT PRIMARY KEY UNIQUE NOT NULL,
+	EmpName varchar(50) UNIQUE NOT NULL,
+	EmpPassword varchar(50) NOT NULL,
+	EmpEmail varchar(50) UNIQUE NOT NULL,
+	EmpPhone varchar(50) UNIQUE NOT NULL,
+	Emp_Unit INT NOT NULL,
+	Emp_Street varchar(50) NOT NULL,
+	Emp_City varchar(50) NOT NULL,
+	Emp_Province varchar(50) NOT NULL,
+	Emp_Country varchar(50) NOT NULL
+);

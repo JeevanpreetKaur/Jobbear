@@ -1,0 +1,7 @@
+CREATE TABLE signup(
+	user_id SERIAL PRIMARY KEY,
+	user_fname varchar(50),
+	user_lname varchar(50),
+	user_email varchar(128),
+	user_password varchar(50)
+);
